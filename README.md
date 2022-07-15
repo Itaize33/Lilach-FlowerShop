@@ -8,4 +8,6 @@ Flower shop desktop application using JavaFx, OCSF (Server - Client Framework), 
 to run this project:
 
 1. change the username, password and url to your relevant MySQL info at: server\src\main\resources\hibernate.properties
-2. create a new database named catalog, and you are good to go
+2. create a new database named catalog
+3. run the server program
+4. run the client program and you are good to go
